@@ -1,6 +1,18 @@
-# EmailAll-2FA: A Revolutionary Two-Factor Authentication Standard
+# EmailAll-2FA: The Revolutionary Two-Factor Authentication Standard
 
-## Introduction
+<details>
+  <summary>Good and terrible, all at once!</summary>
+  
+  <img src="https://github.com/GodSpoon/EmailAll-2FA/blob/main/media/asthedawn.gif?raw=true">
+  
+</details>
+
+<img src="https://github.com/GodSpoon/EmailAll-2FA/blob/main/media/ea-2fa_logo.png?raw=true" width="128">
+
+
+
+## Introduction!
+
 
 Welcome to EmailAll-2FA, the groundbreaking Two-Factor Authentication (2FA) method that is set to revolutionize the security world. This whitepaper outlines the specifications and procedures for implementing EmailAll-2FA, a method that combines the ubiquity of email with the rigor of reply-all action for unparalleled security.
 
